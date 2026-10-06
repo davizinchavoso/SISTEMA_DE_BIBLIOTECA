@@ -1,0 +1,7 @@
+C:\Users\davi.sportela\Documents\C#\SISTEMA_DE_BIBLIOTECA\SISTEMA_DE_BIBLIOTECA\bin\Debug\SISTEMA_DE_BIBLIOTECA.exe.config
+C:\Users\davi.sportela\Documents\C#\SISTEMA_DE_BIBLIOTECA\SISTEMA_DE_BIBLIOTECA\bin\Debug\SISTEMA_DE_BIBLIOTECA.exe
+C:\Users\davi.sportela\Documents\C#\SISTEMA_DE_BIBLIOTECA\SISTEMA_DE_BIBLIOTECA\bin\Debug\SISTEMA_DE_BIBLIOTECA.pdb
+C:\Users\davi.sportela\Documents\C#\SISTEMA_DE_BIBLIOTECA\SISTEMA_DE_BIBLIOTECA\obj\Debug\SISTEMA_DE_BIBLIOTECA.csproj.AssemblyReference.cache
+C:\Users\davi.sportela\Documents\C#\SISTEMA_DE_BIBLIOTECA\SISTEMA_DE_BIBLIOTECA\obj\Debug\SISTEMA_DE_BIBLIOTECA.csproj.CoreCompileInputs.cache
+C:\Users\davi.sportela\Documents\C#\SISTEMA_DE_BIBLIOTECA\SISTEMA_DE_BIBLIOTECA\obj\Debug\SISTEMA_DE_BIBLIOTECA.exe
+C:\Users\davi.sportela\Documents\C#\SISTEMA_DE_BIBLIOTECA\SISTEMA_DE_BIBLIOTECA\obj\Debug\SISTEMA_DE_BIBLIOTECA.pdb
